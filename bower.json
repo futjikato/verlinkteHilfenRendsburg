@@ -1,0 +1,23 @@
+{
+  "name": "Verlinkte Hilfen Rendsburg",
+  "version": "0.0.1",
+  "authors": [
+    "Moritz Spindelhirn"
+  ],
+  "description": "Homepage behind verlinkte-hilfen-rendsburg.de",
+  "main": "index.html",
+  "license": "Closed Source",
+  "homepage": "verlinkte-hilfen-rendsburg.de",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.0.3",
+    "bootstrap": "~3.0.0"
+  }
+}
