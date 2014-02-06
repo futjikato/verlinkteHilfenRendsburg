@@ -1,5 +1,8 @@
 # Created by http://gitignore.io
 
+### osx ###
+.DS_Store
+
 ### PhPStorm ###
 .idea/
 
